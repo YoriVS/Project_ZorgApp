@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fysio",
+    "medication": false,
+    "verdovende": false,
+    "edit": true,
+    "lungCapacity": true
+  },
+  {
+    "name": "Huisharts",
+    "medication": true,
+    "verdovende": true,
+    "edit": true,
+    "lungCapacity": false
+  },
+  {
+    "name": "Tandarts",
+    "medication": true,
+    "verdovende": true,
+    "edit": true,
+    "lungCapacity": false
+  },
+  {
+    "name": "Apotheker",
+    "medication": true,
+    "verdovende": true,
+    "edit": false,
+    "lungCapacity": false
+  }
+]
